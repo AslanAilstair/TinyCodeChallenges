@@ -25,5 +25,4 @@ Welcome to **TinyCodeChallenges**! This repo is a collection of daily coding cha
 
 *“One tiny code, one giant leap!”* 🌱 #CodeTinySteps
 
-# TinyCodeChallenges
 "Daily coding challenges for beginners-small steps to master HTML, CSS, Python, JS, and mini-RPGs!🌱💻 Open to contributions! #CodeTinySteps".
